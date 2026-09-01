@@ -1,2 +1,2 @@
 # Guided-Data-Warehouse-Project
-Data Warehouse
+Data Warehouse Sample for learning project
